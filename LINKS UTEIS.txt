@@ -1,0 +1,2 @@
+https://picamera.readthedocs.io/en/latest/recipes1.html
+https://ai.google.dev/edge/mediapipe/solutions/vision/pose_landmarker?hl=pt-br
